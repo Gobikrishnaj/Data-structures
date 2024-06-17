@@ -15,7 +15,7 @@ struct Stack {
 }; 
 
 struct Graph { 
-	int V; // No. of vertices 
+	int V; // No. of vertices  
 	// Pointer to an array containing adjacency lists 
 	struct List* adj; 
 }; 
