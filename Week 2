@@ -15,7 +15,7 @@ Code:
 #include <stdlib.h>
 
 struct node
-
+ 
 {
 
 struct node *Prev;
