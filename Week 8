@@ -3,7 +3,7 @@ Inorder Traversal
 Preorder Traversal
 Postorder Traversal
 
-  Algorithm:
+  Algorithm: 
    CODE:-
    #include <stdio.h>
    #include <stdlib.h>
