@@ -15,7 +15,7 @@ Delete a node after P
 Delete a node at the end of a list
 Delete the List
 
-Algorithm:
+Algorithm: 
 Code: 
 #include <stdio.h>
 
