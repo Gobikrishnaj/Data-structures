@@ -16,7 +16,7 @@ struct poly
 {
 
 int coeff;
-
+ 
 int pow;
 
 struct poly *Next;
